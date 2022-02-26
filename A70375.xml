@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ianuaries accovnt, giving a full and true relation of all the remarkable passages of that month, this present yeare, 1645 drawne up together to give a generall satisfaction to the whole kingdome, of the just and legall proceedings of that High and Honourable Court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70375</idno>
+            <idno type="STC">Wing J487</idno>
+            <idno type="STC">ESTC R6289</idno>
+            <idno type="EEBO-CITATION">11965544</idno>
+            <idno type="OCLC">ocm 11965544</idno>
+            <idno type="VID">51697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 233:E27, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ianuaries accovnt, giving a full and true relation of all the remarkable passages of that month, this present yeare, 1645 drawne up together to give a generall satisfaction to the whole kingdome, of the just and legall proceedings of that High and Honourable Court of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper ...,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from National Union Catalog, pre-1956 imprints, 1968-1980.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51697:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <head>IANUARIES ACCOVNT, Giving a full and true Relation of all the remarkable paſſages of that Month, this pre<g ref="char:EOLhyphen"/>ſent Yeare, 1645. <add>1644</add>
+            </head>
+            <head type="sub">Drawne up together to give a generall ſa<g ref="char:EOLhyphen"/>tisfaction to the whole Kingdome, of the juſt and legall proceedings of that High and Ho<g ref="char:EOLhyphen"/>nourable Court of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt day of the Yeare, according to the ſeaſon of the time, it being good all the month to take off ſuperfluous branches from Fruit-trees: The Commonwealth had a young twig cut from it, proceeding from as bad a body or ſtocke, Sir <hi>John Hotham,</hi> father to Captaine <hi>Hotham,</hi> who about eleven of the clocke the ſame day, was brought to the Seaffold on Tower-hill, where he prayed, but confeſſed no<g ref="char:EOLhyphen"/>thing (ſo difficult a thing it is for great men to deale plainly with
+<pb n="2" facs="tcp:51697:2"/>
+               <!-- PDF PAGE 116 -->their conſciences even at the inſtant of death) but he juſtified his actions, and ſo lying downe on the block, his head being cut oft at one blow. Streight boughs may grow from a crooked Tree but it is worthy to be remembred that the Sonne being lopt off by the Axe of Juſtice, the ſame weeke the Father, who like an old Oake had ſtood the ſhaking tempeſts of many Winters ſhould now come to ſo ſad a fall. This Sir <hi>John Hotham</hi> may be a lecture unto all great perſons, to inſtruct them to keep a true and ſound heart, in which part he being rotten, was by the hand of Juſtice cut downe for his treacherous carriage in many buſineſſes, as his denying my Lord <hi>Fairfax</hi> neceſſaries to fight againſt the Earle of <hi>Newcaſtle;</hi> he ſeverall times had in his cuſtody the Lord <hi>George,</hi> who comming to <hi>England</hi> alone, hath beene the death of many thouſand men, and a million of prejudices to the Kingdome in the eſtates of men, beſides his intent of delivering up <hi>Hull,</hi> for which the State ſaw it juſt and neceſſary that he ſhould dye; theſe two executions it is to be hoped, will not only fright thoſe at <hi>Oxford</hi> from farther tampering with any of our party, but alſo make all ours intereſted, to forbear the leaſt thoughts of compliance with the Enemy, for treachery is a ſtaine never got out.</p>
+            <p>Theſe two, the fatherand the ſon, being gone out of the world, and which is the greateſt miſery of all unpitied, the Scripture, now was in a man that ſhould have advanced Religion, and Gods word, fulfilled, <hi>The Axe is now laid to the root of the tree, and every tree that bringeth not forth good fruit ſhall be hewen downe and caſt into the fire:</hi> for the firſt part it was well enough knowne that this Tree being firſt planted in St. <hi>John</hi> Colledge in <hi>Oxford,</hi> flouriſhed there a long time, untill he was removed to grow in the fat ſoil of an Epiſcopal dignity, being made Archbiſhop of <hi>Canterbury,</hi> and now being firmly rooted in that high Grace, he having little grace, did not as the text ſaith, <hi>Bring forth good fruit,</hi> unleſſe the endeavoring to bring in Popery inſtead of the Proteſtant Religion, his perſecuting the members of Chriſt by impriſonment and cutting off ears, his cruel<g ref="char:EOLhyphen"/>ty in the high Commiſſion Court, his ſilencing of faithfull Mini<g ref="char:EOLhyphen"/>ſters, his deſiring to be made a Cardinall from <hi>Rome,</hi> and his op<g ref="char:EOLhyphen"/>poſing of Parliaments, and therein his ſubverting the Lawes of the Kingdome, to bring in the Romiſh Hierarchy, and many other
+<pb n="3" facs="tcp:51697:2"/>
+               <!-- PDF PAGE 116 -->wicked plots; unleſſe I ſay theſe were good fruits, he brought forth none elſe; ſo that this Tree being by the judicious cenſure of Parliament knowne and proved to bring forth nothing but malice, Popery, malignancy, and treaſon againſt the Kingdome and State; he was as the Scripture ſaith, condemned to have the Axe not only laid unto him (though he hoped for mercy) but to be hewen downe: And ſo on January the tenth, he came from the Tower to the place of Execution, where on the Scaffold heo had many ſpectators who came to ſee this old Popiſh Oake cut downe, who there on the Scaffold on Tower-hill preacht his Fu<g ref="char:EOLhyphen"/>nerall Sermon, upon <hi>Heb.</hi> 12.1.2.</p>
+            <q>Let us run with patience that race that is ſet before us, looking unto Jeſus the Author and finiſher of our faith, who for the joy that was ſet before him, endured the croſſe, deſpiſing the ſhame, and is ſet downe at the right hand of the Throne of God.</q>
+            <p>His Sermon may be thus epitomized in theſe briefe heads: Firſt, an application of the words unto himſelfe, I have been long in my race, and how I have looked unto Jeſus the author and finiſher of my faith, is beſt knowne to him: Then he begins to mocke the people in theſe words: <hi>The Iſraelites, would not worſhip the Image which the King had ſet up:</hi> Nor ſhall I the Imaginations which the people are ſetting up, nor will I forſake the Temple and the Truth of God to follow the bleating of <hi>Jeroboams</hi> Calves in <hi>Dan</hi> and <hi>Bethel.</hi> Then he bleſſed the people, and prayed God to open their eyes, that they might ſee the right way (meaning to Popery.) Then he ſaid that <hi>Simon Sudbury</hi> a Biſhop loſt his head in the fury of <hi>Wat Tiler,</hi> as if he were put to death by Rebels, and in a time of Rebellion: Then he prayes for the King, and profeſſed him<g ref="char:EOLhyphen"/>ſelfe to dye in the Proteſtant Religion; but who ever ſaw a Pro<g ref="char:EOLhyphen"/>teſtant Biſhop deſire a Cardinals Cap. But you may read his Ser<g ref="char:EOLhyphen"/>mon at large, which being ended, he plucked off his doublet, and after ſome prayers, laid his head on the block; and at one blow his policy and Popery were both out off.</p>
+            <p>Munday the 13. after debate, it was reſolved by the Commons,
+<pb n="4" facs="tcp:51697:3"/>
+               <!-- PDF PAGE 117 -->that the number of the new Army now raiſed, ſhould be 21000 Horſe and Foot.</p>
+            <p>This day Col. <hi>Jepſon</hi> the Governour of <hi>Plimmoth</hi> ſet upon Co<g ref="char:EOLhyphen"/>lonell <hi>Gorings</hi> Quarters, tooke ſome Horſe and divers Priſoners.</p>
+            <p>Colonell <hi>Mitton</hi> alſo with a party from his Garriſon at <hi>Oſweſtree,</hi> fell upon three Troops of Sir <hi>John Birons</hi> Horſe, and tooke two Captaines of Horſe, one Lieutenant, one Quartermaſter, nineteen Troopers, twenty caſe of Piſtols, twelve Carbines, foure Mus<g ref="char:EOLhyphen"/>kets, and routed all the reſt.</p>
+            <p>
+               <hi>Ian.</hi> 14. The Lord <hi>Inchequin</hi> was by Commiſſion made Preſi<g ref="char:EOLhyphen"/>dent of <hi>Munſter.</hi> The Houſe paſſed a Vote to this effect: That many Congregations may bee under one Presbyteriall Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Abington</hi> was attempted to be ſtormed by P. <hi>Rupert, Maurice,</hi> Colonell <hi>Gage</hi> Governour of <hi>Oxford,</hi> and others, with a party of about 1000. Horſe, and 800. foot, but they were ſoone beaten from <hi>Cullam</hi> bridge, our men marching through the overflowing waters. In this Service we loſt of note only Major <hi>Bradbury</hi> ſlain upon the bridge, and ſeven or eight common Souldiers: of the Enemies there were ſlaine Sir <hi>Henry Gage</hi> Governour of <hi>Oxford,</hi> the Major of the Princes Regiment with his Lieutenant; and the Enemy carried away three cart load of dead men.</p>
+            <p>The Towne and Caſtle of <hi>Cardigan</hi> in <hi>Wales</hi> is taken by Major Generall <hi>Laughorne,</hi> the Towne with little difficulty, but the Ca<g ref="char:EOLhyphen"/>ſtle held out obſtinately, wherein were taken an hundred Com<g ref="char:EOLhyphen"/>manders and Souldiers.</p>
+            <p>The States of <hi>Holland</hi> have deſired a paſſe from the Parliament to goe to <hi>Oxford.</hi>
+            </p>
+            <p>It is voted by the Commons, that Paſters, Doctors, Teachers, Elders, and Deacons, ſhould be the Officers of the Church.</p>
+            <p>
+               <hi>Plimmouth</hi> hath had great ſucceſſe againſt <hi>Grenvils</hi> Forces, who having then one great Work, were beaten off, with the loſte of 75 men left dead on the place.</p>
+            <p>An Order was made by the Commons for the triall of one <hi>Dob<g ref="char:EOLhyphen"/>ſon</hi> a Stationer, by a Councell of War, for Printing ſcandalous books. There is order taken alſo for the ſuppreſſing of <hi>Oxford Aulicaſſes,</hi> Printed at <hi>London,</hi> or conveyed hither.</p>
+            <p>
+               <pb n="5" facs="tcp:51697:3"/>
+               <!-- PDF PAGE 117 -->
+An Ordinance was made for the aſſeſſement of the Counties for raiſing of the ſumme ſet on them for the maintenance of the twenty one thouſand Horſe and Foot, according to the new mod<g ref="char:EOLhyphen"/>dell of an Army.</p>
+            <p>After the defeat at <hi>Abington,</hi> they were much diſtracted at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> whither Sir <hi>Henry Gage</hi> killed at <hi>Abington,</hi> was brought and buried there. The Lord <hi>Savil,</hi> the L. <hi>Piercy,</hi> and the L. <hi>Andover,</hi> were confined to their chambers; ſome ſay for mocking Prince <hi>Rupert,</hi> and asking him, if he had brought <hi>Abington</hi> in his pocket? others ſay, for giving intelligence.</p>
+            <p>Three hundred Horſe and Priſoners were taken by Colonell <hi>Holborne,</hi> who alſo forced the Enemy to <hi>Briſtol,</hi> and ſince hath taken <hi>Sydenham</hi> houſe, with a hundred Priſoners, one Captaine, a Lieutenant, many other officers, with ſtore of Armes and Amuni<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Sir <hi>Thomas Fairfax</hi> is made Commander in chiefe of the Forces according to the new moddell of the Army: And Major <hi>Skippon</hi> is made Sergeant-Major-Generall of the ſame; and ſeverall other Officers are voted by the Houſe.</p>
+            <p>There is an Appendix to the Directory preſented to the Com<g ref="char:EOLhyphen"/>mons, and by them tranſmitted to the Lords, for the aboliſhing of Holidayes, and holyneſſe attributed to places, and a Committee is appointed to conſider of certaine dayes for the recreations of Ap<g ref="char:EOLhyphen"/>prentices and ſervants in a civill orderly way, ſo that there will be no more drunken Saint-dayes now.</p>
+            <p>Sir <hi>Peter Killigrew</hi> returned from <hi>Oxford</hi> on Wedneſday laſt, January 22. with His Majeſties Anſwer concerning the Treaty, which was ſealed up in a Letter of <hi>Ruperts</hi> to the Lord Generall. The contents of the conduct runne to this effect: That our Com<g ref="char:EOLhyphen"/>miſſioners, namely, <hi>Algernon</hi> Earle of <hi>Northumberland,</hi> Earle of <hi>Pembroke,</hi> Earle of <hi>Saliſbury,</hi> Earle of <hi>Denbigh,</hi> of the Houſe of Lords. And the Lord <hi>Waiman,</hi> Mr. <hi>Hollis,</hi> Mr. <hi>Pierpoint,</hi> Mr. <hi>Whit<g ref="char:EOLhyphen"/>lock,</hi> Sir <hi>Henry Vane</hi> junior, Mr. Solliciter, Mr. <hi>Crew,</hi> and Mr. <hi>Prideaux,</hi> of the Houſe of Commons in Parliament aſſembled at <hi>Weſtminſter.</hi> And the Marqueſſe of <hi>Argile,</hi> the Lord <hi>Louthian,</hi> the Lord <hi>Muitland,</hi> Sir <hi>Charles Erskin,</hi> Mr. <hi>Kereday,</hi> Mr. <hi>Berkley,</hi> Mr. <hi>Henderſon,</hi> and othere, Commiſſioners from the Parliament
+<pb n="6" facs="tcp:51697:4"/>
+               <!-- PDF PAGE 118 -->of <hi>Scotland,</hi> with their attendants, not exceeding the number of a 108. with their Horſe, Carriages, and other neceſſaries, are to paſſe between <hi>London</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> when and ſo often as they ſhall thinke fit, during the time of the Treaty, without any let or moleſtation whatſoever.</p>
+            <div type="part">
+               <head>The Propoſitions from the King are theſe.</head>
+               <p>
+                  <hi>THat His Majeſties Revenues, Magazins, Towns, Forts, and Ships, that have been taken or kept from him may be reſtored. That whatſoever hath been done or publiſhed contrary to the known Lawes of the Land, or derogatory to His Majeſties legall and known Rights be renounced and recalled, that no ſeed may re<g ref="char:EOLhyphen"/>main of the like to ſpring out for the future.</hi>
+               </p>
+               <p>
+                  <hi>That whatſoever illegall power hath been claimed or exerciſed over His Majeſties Subjects, as impriſoning and putting to death their perſons without Law, ſtopping</hi> Habeas Corpus, <hi>and putting Impoſitions upon their eſtates, (without Act of Parliament) either by one or both Houſes, or by any Committee of both or either Hou<g ref="char:EOLhyphen"/>ſes, be diſclaimed, and the perſons committed be forthwith diſ<g ref="char:EOLhyphen"/>charged.</hi>
+               </p>
+               <p>
+                  <hi>That His Majeſty will conſent to make a Law to eſtabliſh and to maintain the Proteſtant Religion: and for the firmer eſtabli<g ref="char:EOLhyphen"/>ſhing thereof, deſires there may be a Bill drawn up for the conti<g ref="char:EOLhyphen"/>nuance of the Booke of Common Prayer, and to maintain it from all ſoonne and violence.</hi>
+               </p>
+               <p>
+                  <hi>That there be a Bill alſo for the e<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe of tender Conſciences, in ſuch particulars as ſhall be agreed upon: and that (as to the beſt expedient thereunto<g ref="char:punc">▪</g> there be a Nationall Synod called legally, with all convenient ſpeed.</hi>
+               </p>
+               <p>
+                  <hi>That all perſons which ſhall be excepted and agreed upon on ei<g ref="char:EOLhyphen"/>ther ſide to be excepted out of the Generall Pardon, be tried</hi> per Pares, <hi>according to the uſuall cuſtome, and known Laws of the Land to be either acquitted or condemned.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:51697:4"/>
+                  <!-- PDF PAGE 118 -->
+                  <hi>And to the intent that Trade may not ſuffer, nor any inter<g ref="char:EOLhyphen"/>ruption to the Treaty, and that there may be a Ceſſation of Arms, and a free Trade with all poſsible ſpeed concluded on.</hi>
+               </p>
+               <p>And as to what ſhall be debated, His Majeſty gives power to his Commiſſioners, or any ten of them, to agree and conclude upon them.</p>
+               <p>In the new Army of 21000 the chiefe Commanders nominated are Sir <hi>Thomas Fairfax</hi> to command in chiefe, and Major <hi>Skippon</hi> to be Serjeant-Major-Generall, the foure Colonels of Horſe and Foot are,
+<list>
+                     <item>Col. <hi>Holborn.</hi>
+                     </item>
+                     <item>Col. <hi>Middleton.</hi>
+                     </item>
+                     <item>Col. <hi>Forteſcue.</hi>
+                     </item>
+                     <item>Col. <hi>Barkley.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And honours are by the Parliament to bee conferred on the Earle of <hi>Eſſex</hi> and Sir <hi>William Belfore,</hi> for their valiant and faith<g ref="char:EOLhyphen"/>full ſervices for the Commonwealth.</p>
+               <p>It is certaine Colonel <hi>Holborn</hi> hath taken Sydenham houſe, and therein a 100 priſoners, with the high Sheriffe of Summerſetſhire, and ten Commiſſioners of Array. That he hath taken ſome hun<g ref="char:EOLhyphen"/>dreds of <hi>Hoptons</hi> forces, and driven the reſt towards Briſtol; that Plimmouth is in a good condition: That the King hath aſſigned Prince <hi>Maurice</hi> to be Generall of Worceſter, Hereford, and Shropſhire.</p>
+               <p>The Kings Commiſſioners are the Duke of Richmond, Marqueſſe<g ref="char:punc">▪</g> Hartford, Earle of Southampton, Earle of Kingſton, Earle of Chi<g ref="char:EOLhyphen"/>cheſter, Lord <hi>Seymor,</hi> Lord <hi>Hatton,</hi> L <hi>Capel,</hi> L. <hi>Culpepper,</hi> Sir <hi>Or<g ref="char:EOLhyphen"/>lando Bridgeman,</hi> Sir <hi>Edward Nicholas,</hi> Sir <hi>Ed. Hide,</hi> Sir <hi>Richard Lane,</hi> Sir <hi>Thomas Gardiners,</hi> Mr. <hi>John Aſhburnham,</hi> and Mr. <hi>Jeffery Palmer,</hi> with Doctor <hi>Stewart,</hi> Dr. <hi>Laney,</hi> Dr. <hi>Shelden,</hi> and their at<g ref="char:EOLhyphen"/>tendants to the number of 108. But ſome of their Commiſſio<g ref="char:EOLhyphen"/>ners at Oxford muſt leave their new Titles behinde them, for the Houſes wil not allow the new made Lords their Titles, the reſt that have gotten new honours ſince <hi>Littleton</hi> went away, upon ſuch tearmes. And on Saturday Sir <hi>Peter Killigrew</hi> poſted to ſignifie ſo much unto them, and alſo to carry them a ſafe conduct upon the ſame conditions. This Treaty is the great expectation of the King<g ref="char:EOLhyphen"/>dome, and this eclipſe may ſignifie Peace; and that
+<q>
+                     <l>Eclips'd Religion loſing now her light,</l>
+                     <l>Yet once ſhine out again moſt fair and bright.</l>
+                  </q>
+               </p>
+               <pb n="6" facs="tcp:51697:5"/>
+               <!-- PDF PAGE 119 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:51697:5"/>
+               <!-- PDF PAGE 119 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <p>
+                  <pb n="8" facs="tcp:51697:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 120 -->
+This Treaty brings <hi>Englands</hi> weale or woe, and therefore wor<g ref="char:EOLhyphen"/>thy to be prayed for; happy were it to ſee the King as the Sunne doth comming towards us, for then our joy would beginne to ſpring.</p>
+               <p>Sir <hi>William Breretons</hi> Forces have taken Priſoners near <hi>Cheſter,</hi> Colonell <hi>Woiden,</hi> Col. <hi>Wen,</hi> Lieutenant Colonell <hi>Gray,</hi> Lieutenant Colonell <hi>Gough,</hi> Captaine <hi>Rorey,</hi> Capt. <hi>Oneal,</hi> an Iriſhman, with thirteen other Commanders, 200 common Souldiers, as many Horſe, ſtore of Armes, and killed and wounded many of them.</p>
+               <p>Inſtructions are agreed upon what particulars ſhall bee treated off the firſt nine dayes, namely, on the ſetling of Religion, the Militia, and the affaires of <hi>Ireland.</hi>
+               </p>
+               <p>Sir <hi>Richard Greenvil</hi> hath in the Weſt ſlaine the two <hi>Champer<g ref="char:EOLhyphen"/>noons,</hi> in this manner, Colonell <hi>Champernoon</hi> provoked by him, fired his Piſtol upon him without effect, then <hi>Greenvil</hi> piſtoled the Colo<g ref="char:EOLhyphen"/>nell and ſlew him: his brother fired his Piſtoll upon <hi>Greenvil,</hi> which miſſing, <hi>Greenvil</hi> drew his ſword and run him through, and ſo killed both the brothers.</p>
+               <p>
+                  <hi>Cornwall</hi> begins to riſe up in Armes, being weary of the cruelty of this inſolent and bloudy Commander <hi>Greenvil.</hi>
+               </p>
+               <p>
+                  <hi>Cheſter</hi> is at this preſent beſieged round; and an hundred and twenty Demy Canon ſhot were made in one day againſt <hi>Pom<g ref="char:EOLhyphen"/>fract</hi> Caſtle, againſt which a new mount is raiſed, and many breaches are made.</p>
+               <p>An <hi>India</hi> Ship was caried into <hi>Briſtol</hi> by the treacherous maſter thereof. Sir <hi>Thomas Middleton</hi> keeps the Welch in obedience, and maintaines div<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs Gariſons there.</p>
+               <p>Thus have you a true account of the paſſages of this Month of January, happy in the beginning of the Treary of Peace, unto which God ſend a bleſſed iſſue.</p>
+               <trailer type="license">Seen and alowed.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Harper,</hi> and are to be ſold at his ſhop in Smithfield, 1645. <date>
+                  <add>1644</add>
+               </date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
